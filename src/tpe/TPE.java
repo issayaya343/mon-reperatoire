@@ -16,6 +16,7 @@ public class TPE {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("bonjour issa");
         // TODO code application logic here
     }
     
